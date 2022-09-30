@@ -16,7 +16,13 @@ dependencies:
       url: https://github.com/olawhizzy/jitsi_meet_olawhizzy.git
       path: jitsi_meet_platform_interface/
       ref: main
-  jitsi_meet_web_plugin: ^2.0.0
+  #jitsi_meet_web_plugin: ^2.0.0
+  jitsi_meet_web_plugin:
+    git:
+      url: https://github.com/olawhizzy/jitsi_meet_olawhizzy.git
+      path: jitsi_meet_platform_interface/
+      ref: main
+  
 
 dev_dependencies:
   flutter_test:
