@@ -1,3 +1,4 @@
+publish_to: none
 name: jitsi_meet_web_plugin
 description: Jitsi Meet Web Plugin
 version: 2.0.0
