@@ -23,5 +23,6 @@ class FeatureFlagHelper {
     FeatureFlagEnum.WELCOME_PAGE_ENABLED: 'welcomepage.enabled',
     FeatureFlagEnum.ANDROID_SCREENSHARING_ENABLED:
         'android.screensharing.enabled',
+    FeatureFlagEnum.VIDEO_SHARE_BUTTON_ENABLED: 'video-share.enabled',
   };
 }

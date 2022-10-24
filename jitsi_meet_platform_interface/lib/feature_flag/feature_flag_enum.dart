@@ -73,4 +73,8 @@ enum FeatureFlagEnum {
   /// Flag indicating if the screensharing should be enabled.
   /// Default: disabled (false).
   ANDROID_SCREENSHARING_ENABLED,
+
+  //Flag indicating if video should be enabled
+  //Default: disbaled (false)
+  VIDEO_SHARE_BUTTON_ENABLED,
 }
